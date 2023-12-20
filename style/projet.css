@@ -1,0 +1,263 @@
+h1 {
+    margin: 0;
+    color: aliceblue;
+}
+
+p {
+    color: #ffffff;
+
+
+}
+
+
+
+
+
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: auto;
+}
+
+.project h2 {
+    margin-top: 0;
+}
+
+.project p {
+    margin: 0;
+    /* color: ; */
+}
+
+.project1 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/lauberge.png);
+    background-size: 150%;
+    background-repeat: no-repeat;
+    /* background-position: ; */
+}
+
+.project6 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/votre-image6.jpg);
+    /* Ajoutez d'autres styles si nécessaire */
+}
+
+.project7 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/votre-image7.jpg);
+    /* Ajoutez d'autres styles si nécessaire */
+}
+
+.project5 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/votre-image.jpg);
+    /* Ajoutez d'autres styles si nécessaire */
+}
+
+.project2 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/logo-glpi.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.project3 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/belle-voie-lactee-dans-ciel-nocturne.jpg);
+}
+
+.project4 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-image: url(./ASSET/belle-voie-lactee-dans-ciel-nocturne.jpg);
+}
+
+
+a {
+    margin-right: 100px;
+    /*ajouter un espace de 20px à droite de chaque lien*/
+}
+
+
+a {
+    color: #2886d3;
+    /*couleur des liens*/
+}
+
+h1,
+h2 {
+    color: #ffae00;
+    /*couleur des titres*/
+}
+
+
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px 15%;
+    background: transparent;
+    transition: all ease .45s;
+}
+
+:root {
+    --bg-color: #1f1f21;
+    --text-color: #2886d3;
+    --main-color: #ffae00;
+
+    --big-font: 7rem;
+    --p-font: 1.1rem;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--bg-color);
+    overflow-x: hidden;
+}
+
+
+
+.logo {
+    color: var(--text-color);
+    font-size: 41px;
+    font-weight: 600;
+
+}
+
+.logo span {
+
+    color: var(--main-color);
+}
+
+.navbar {
+    display: flex;
+}
+
+
+.navbar a {
+    font-size: var(--p-font);
+    font-weight: 500;
+    color: var(--text-color);
+    margin: 0 25px;
+    transition: all ease .50s;
+
+}
+
+.navbar a:hover {
+    color: var(--main-color);
+}
+
+.navbar a:active {
+    color: var(--main-color);
+}
+
+.menu-btn {
+    background: linear-gradient(130.08deg, #383528 0%, #191919 100%);
+    box-shadow: 0px 20px 40px #00000070;
+    border: 1px solid #3b3b3b;
+    padding: 10px 20px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+#menu-icon {
+    font-size: 28px;
+    margin-left: 10px;
+    z-index: 6;
+}
+
+section {
+    padding: 0 15%;
+}
+
+
+
+.home {
+    position: relative;
+    width: 100%;
+    height: 100VH;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.home-img {
+    width: 730px;
+    height: 730px;
+}
+
+.home-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.home-text span {
+    background: linear-gradient(130.08deg, #383528 0%, #191919 100%);
+    box-shadow: 0px 20px 40px #00000070;
+    border: 1px solid #3b3b3b;
+    border-radius: 100px;
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+
+.home-text h1 {
+    font-size: var(--big-font);
+    margin: 23px;
+    color: antiquewhite;
+}
+
+.home-text p {
+    font-size: var(--p-font);
+    font-weight: 400;
+    color: #c3c3c3;
+    line-height: 30px;
+    margin-bottom: 50px;
+
+}

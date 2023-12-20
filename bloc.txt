@@ -1,0 +1,66 @@
+<section id="activites">
+            <h2>Activités réalisées au sein de l'equipe quality assurance <a href="./Organigramme.pptx">QA</a></h2>
+            <p>La qualité assurance dans une entreprise sert à garantir la qualité des produits ou services fournis.
+                Elle vise à assurer la satisfaction des clients en s'assurant que les produits répondent à leurs
+                attentes et aux normes de qualité établies </p>
+            <ul>
+                <li>
+                    <h3>Écriture de test de non-régression au vu de l'implémentation d'une nouvelle feature </h3>
+                    <p>
+                        s'assurer que les modifications apportées au logiciel n'ont pas introduit de régressions,
+                        c'est-à-dire de nouveaux problèmes ou des défauts dans les fonctionnalités déjà existantes.
+                <li>Identifier les scénarios de test </li>
+                <li>Écrire les scripts de test </li>
+                <li>Exécuter les tests </li>
+                <li>Analyser les résultats</li>
+                </p>
+                </li>
+                <li>
+                    <h3>Exécution de campagne (Web,Mobile,Logiciel)</h3>
+                    <p>
+                        Une campagne QA vise à identifier les problèmes, les défauts et les anomalies dans le logiciel
+                        afin de s'assurer qu'il fonctionne conformément aux exigences spécifiées et aux attentes des
+                        utilisateurs. L'exécution d'une campagne QA est une étape cruciale pour assurer la qualité du
+                        logiciel avant sa mise en production.
+                <li>Préparation de l'environnement de test</li>
+                <li>Exécution des tests</li>
+                <li>Gestion des anomalies </li>
+                <li>Analyse des résultats</li>
+                </p>
+                </li>
+                <li>
+                    <h3>Création de ticket concernant des bug rencontré et interaction avec l'équipe de Dev et de R&D
+                        jusqu'à résolution du ticket </h3>
+                    <p>
+                        L'équipe QA communique régulièrement avec l'équipe de développement et la R&D pour partager les
+                        résultats des tests, les problèmes identifiés et les progrès réalisés. Les rapports de test sont
+                        préparés pour résumer les résultats et informer.
+                <li>Identification du bug </li>
+                <li>Création du ticket </li>
+                <li>Priorisation et assignation </li>
+                <li>Interaction avec l'équipe de développement </li>
+                <li>Investigation et résolution </li>
+                <li> Tests de validation </li>
+                <li>Fermeture du ticket </li>
+                </p>
+                </li>
+            </ul>
+        </section>
+
+        <section id="technologies">
+            <h2>Technologies apprises</h2>
+            <ul>
+                <li>JIRA : JIRA est une plateforme de gestion de projets et de suivi des problèmes, développée par
+                    Atlassian. Elle permet aux équipes de collaborer, de suivre les tâches, de gérer les workflows et de
+                    planifier les projets de manière efficace. JIRA est utilisée dans divers domaines pour améliorer la
+                    productivité et la coordination des équipes. </li>
+                <li>POSTMAN : Postman est un outil de développement d'API qui facilite la création, le test et la
+                    documentation des requêtes HTTP.
+                    Il permet aux développeurs de collaborer efficacement en partageant des collections d'API.
+                    Postman offre des fonctionnalités avancées telles que l'automatisation des tests et la génération de
+                    code.
+                    Il est largement utilisé dans le développement d'applications web et mobiles pour tester et déboguer
+                    les API. </li>
+
+            </ul>
+        </section>
