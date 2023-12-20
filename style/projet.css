@@ -35,7 +35,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/lauberge.png);
     background-size: 150%;
     background-repeat: no-repeat;
     /* background-position: ; */
@@ -46,7 +45,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/votre-image6.jpg);
     /* Ajoutez d'autres styles si nécessaire */
 }
 
@@ -55,7 +53,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/votre-image7.jpg);
     /* Ajoutez d'autres styles si nécessaire */
 }
 
@@ -64,7 +61,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/votre-image.jpg);
     /* Ajoutez d'autres styles si nécessaire */
 }
 
@@ -73,8 +69,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/logo-glpi.png);
-    background-repeat: no-repeat;
     background-position: center;
 }
 
@@ -83,7 +77,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/belle-voie-lactee-dans-ciel-nocturne.jpg);
 }
 
 .project4 {
@@ -91,7 +84,6 @@ p {
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 20px;
-    background-image: url(./ASSET/belle-voie-lactee-dans-ciel-nocturne.jpg);
 }
 
 
