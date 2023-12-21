@@ -232,15 +232,11 @@ a:hover {
     background-color: #9e0000;
 }
 
-.project1 {
-    background-image: url(./ASSET/cyber.png);
-}
+.project1 {}
 
 
 
-.project2 {
-    background-image: url(./ASSET/belle-voie-lactee-dans-ciel-nocturne.jpg);
-}
+.project2 {}
 
 @media (max-width: 1850px) {
     header {
